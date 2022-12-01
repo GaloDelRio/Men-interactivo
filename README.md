@@ -1,4 +1,4 @@
-# Menú-interactivo
+# Menu-interactivo
 ## Contexto
 Gracias a la pademia, muchos de nuestros procesos se vieron afectados por medios virtuales como por ejemplo: en lo academico, lo social y lo economico. Pero uno de los ambitos que tambien se vio afectado, fue el uso de menus en restaurantes, en los cuales se tenia que usar un codigo Qr para revisar la carta para evitar el contacto.
 
